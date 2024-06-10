@@ -1,0 +1,253 @@
+{
+    "props": {
+        "pageProps": {
+            "statusCode": 500,
+            "query": {}
+        },
+        "user": null,
+        "isLooseAuthentication": false,
+        "device": {
+            "width": 1025
+        },
+        "apolloState": {
+            "data": {}
+        },
+        "apollo": null,
+        "__lang": "en",
+        "__namespaces": {
+            "dynamic": {
+                "title": "Hello world",
+                "variable-example": "Using a variable {{count}}"
+            }
+        }
+    },
+    "page": "/_error",
+    "query": {},
+    "buildId": "DWB6kB9dJHunI6dNZHXQF",
+    "isFallback": false,
+    "err": {
+        "name": "Internal Server Error.",
+        "message": "500 - Internal Server Error.",
+        "statusCode": 500
+    },
+    "gip": true,
+    "appGip": true,
+    "locale": "en",
+    "locales": [
+        "en",
+        "fr",
+        "es",
+        "zh",
+        "bg",
+        "hr",
+        "cs",
+        "da",
+        "nl",
+        "et",
+        "fi",
+        "de",
+        "el",
+        "hu",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "mt",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "sv",
+        "sr",
+        "ar",
+        "ru",
+        "tr",
+        "ua",
+        "jp"
+    ],
+    "defaultLocale": "en",
+    "head": [
+        [
+            "meta",
+            {
+                "name": "viewport",
+                "content": "width=device-width, initial-scale=1",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "charSet": "utf-8",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "title",
+            {
+                "className": "jsx-249804203",
+                "children": "Error 500 | World Athletics"
+            }
+        ],
+        [
+            "link",
+            {
+                "rel": "apple-touch-icon",
+                "href": "/static/icons/256x256.png",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "link",
+            {
+                "rel": "apple-touch-icon",
+                "sizes": "72x72",
+                "href": "/static/icons/72x72.png",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "link",
+            {
+                "rel": "apple-touch-icon",
+                "sizes": "114x114",
+                "href": "/static/icons/114x114.png",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "link",
+            {
+                "rel": "apple-touch-icon",
+                "sizes": "144x144",
+                "href": "/static/icons/144x144.png",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "link",
+            {
+                "rel": "canonical",
+                "href": "https://worldathletics.org/athletes/ethiopia/hagos-gebrhiwet",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "name": "apple-mobile-web-app-capable",
+                "content": "yes",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "name": "apple-mobile-web-app-status-bar-style",
+                "content": "#ff2534",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "property": "og:title",
+                "name": "title",
+                "content": "Error 500 | World Athletics",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "property": "og:type",
+                "name": "type",
+                "content": "website",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "property": "og:url",
+                "name": "url",
+                "content": "https://worldathletics.org/athletes/ethiopia/hagos-gebrhiwet",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "property": "og:site_name",
+                "name": "site_name",
+                "content": "worldathletics.org",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "property": "og:image",
+                "name": "image",
+                "content": "https://media.aws.iaaf.org/media/Small/default.jpg",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "property": "og:description",
+                "name": "description",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "name": "keywords",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "name": "twitter:card",
+                "content": "summary_large_image",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "name": "twitter:site",
+                "content": "@WorldAthletics",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "name": "twitter:title",
+                "content": "Error 500 | World Athletics",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "name": "twitter:image",
+                "content": "https://media.aws.iaaf.org/media/Small/default.jpg",
+                "className": "jsx-249804203"
+            }
+        ],
+        [
+            "meta",
+            {
+                "property": "thumbnail",
+                "content": "https://media.aws.iaaf.org/media/Small/default.jpg",
+                "className": "jsx-249804203"
+            }
+        ]
+    ]
+}
